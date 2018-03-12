@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
 import {VerticalTimeline, VerticalTimelineElement} from 'react-vertical-timeline-component';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import SchoolIcon from 'material-ui-icons/School';
