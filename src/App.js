@@ -15,98 +15,102 @@ class App extends Component {
               className="vertical-timeline-element--work"
               date="October 2017 - Mars 2018"
               iconStyle={{
-              background: 'rgb(33, 150, 243)',
+              background: '#e8e8e8',
               color: '#fff'
             }}
               icon={< WorkIcon />}>
               <h3 className="vertical-timeline-element-title">Javascript Developper</h3>
               <h4 className="vertical-timeline-element-subtitle">Halo Labs</h4>
               <p>
-                Javascript Development
+              Developing Prototyping product for designers in VR environment.
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
-              date="October 2017 - Mars 2018"
+              date="APRIL 2017 – DECEMBRE 2017"
               iconStyle={{
-              background: 'rgb(33, 150, 243)',
+              background: '#e8e8e8',
               color: '#fff'
             }}
               icon={< WorkIcon />}>
-              <h3 className="vertical-timeline-element-title">Art Director</h3>
-              <h4 className="vertical-timeline-element-subtitle">San Francisco, CA</h4>
+              <h3 className="vertical-timeline-element-title">Javascript Support Developper</h3>
+              <h4 className="vertical-timeline-element-subtitle">Dooblo, Kfar Saba</h4>
               <p>
-                Creative Direction, User Experience, Visual Design, SEO, Online Marketing
+              Provide thorough support and problem resolution for customers in JavaScript.
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
-              date="2008 - 2010"
+              date="MARS 2014 - APRIL 2016"
               iconStyle={{
-              background: 'rgb(33, 150, 243)',
+              background: '#e8e8e8',
               color: '#fff'
             }}
               icon={< WorkIcon />}>
-              <h3 className="vertical-timeline-element-title">Web Designer</h3>
-              <h4 className="vertical-timeline-element-subtitle">Los Angeles, CA</h4>
+              <h3 className="vertical-timeline-element-title">Lead Intelligence Officer</h3>
+              <h4 className="vertical-timeline-element-subtitle">"Yahalom" Unit - IDF</h4>
               <p>
-                User Experience, Visual Design
+              Management of the intelligence axis during dozens of operations. Management and command of 4 officers and about 25 soldiers.
+            Responsible of the Intelligence for the entire Unit's activities in a variety of sectors simultaneously. Working
+            with multiple Intelligence organizations. Participation and Leading the Intelligence's unit during Operation
+            "Protective Edge" ("Zuk Eitan") Held situation evaluation to senior officials.
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
               className="vertical-timeline-element--work"
               date="2006 - 2008"
               iconStyle={{
-              background: 'rgb(33, 150, 243)',
+              background: '#e8e8e8',
               color: '#fff'
             }}
               icon={< WorkIcon />}>
-              <h3 className="vertical-timeline-element-title">Web Designer</h3>
-              <h4 className="vertical-timeline-element-subtitle">San Francisco, CA</h4>
+              <h3 className="vertical-timeline-element-title">Intelligence Corp</h3>
+              <h4 className="vertical-timeline-element-subtitle">IDF</h4>
               <p>
-                User Experience, Visual Design
+              Gained experience in managing teams, cross-projects and working in parallel axes. Graduated from the
+            Intelligence Corp and Completed "Intelligence Officers" course.
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
               className="vertical-timeline-element--education"
-              date="April 2013"
+              date="OCTOBER 2016 - CURRENT"
               iconStyle={{
-              background: 'rgb(233, 30, 99)',
+              background: '#bfbfbf',
               color: '#fff'
             }}
               icon={< SchoolIcon />}>
-              <h3 className="vertical-timeline-element-title">Content Marketing for Web, Mobile and Social Media</h3>
-              <h4 className="vertical-timeline-element-subtitle">Online Course</h4>
+              <h3 className="vertical-timeline-element-title">B.Sc. in Computer Science</h3>
+              <h4 className="vertical-timeline-element-subtitle">IDC Herzliya</h4>
               <p>
-                Strategy, Social Media
+              Business Administration Cluster
+              </p><p>
+              Excellence Scholarship
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
               className="vertical-timeline-element--education"
-              date="November 2012"
               iconStyle={{
-              background: 'rgb(233, 30, 99)',
+              background: '#bfbfbf',
               color: '#fff'
             }}
               icon={< SchoolIcon />}>
-              <h3 className="vertical-timeline-element-title">Agile Development Scrum Master</h3>
-              <h4 className="vertical-timeline-element-subtitle">Certification</h4>
+              <h3 className="vertical-timeline-element-title">High School</h3>
               <p>
-                Creative Direction, User Experience, Visual Design
+              Graduated with honor in Electronics and Computers
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
               className="vertical-timeline-element--education"
-              date="2002 - 2006"
+              date="2017"
               iconStyle={{
-              background: 'rgb(233, 30, 99)',
+              background: '#bfbfbf',
               color: '#fff'
             }}
               icon={< SchoolIcon />}>
-              <h3 className="vertical-timeline-element-title">Bachelor of Science in Interactive Digital Media Visual Imaging</h3>
-              <h4 className="vertical-timeline-element-subtitle">Bachelor Degree</h4>
+              <h3 className="vertical-timeline-element-title">Hackaton Participant</h3>
+              <h4 className="vertical-timeline-element-subtitle">IDC Herzliya</h4>
               <p>
-                Creative Direction, Visual Design
+                Javascript / React.JS / Node.JS
               </p>
             </VerticalTimelineElement>
           </VerticalTimeline>
