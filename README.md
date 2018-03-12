@@ -1,11 +1,11 @@
-Benjamin Arbibe Perso Page (Node.js)
-Configuration
+## Benjamin Arbibe Perso Page (Node.js)
 
-    Platform: node
-    Framework: express
-    CSS Framework: bootstrap
-    CSS Preprocessor: css
-    JavaScript Framework: react
-    Build Tool: npm
-    Database: mongodb
-    Deployment: heroku
+
+### Configuration
+- **Platform:** node
+- **Framework**: express
+- **CSS Framework**: bootstrap
+- **CSS Preprocessor**: css
+- **JavaScript Framework**: react
+- **Build Tool**: npm
+- **Deployment**: heroku
