@@ -12,12 +12,7 @@ html {
     height: 100%;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 700;
     margin: 0 0 35px;
@@ -46,8 +41,7 @@ a {
     color: #42DCA3;
 }
 
-a:focus,
-a:hover {
+a:focus, a:hover {
     text-decoration: none;
     color: #1d9b6c;
 }
@@ -82,13 +76,12 @@ a:hover {
 }
 
 #mainNav .navbar-nav .nav-item:hover {
-    color: fade(white, 80%);
+    color: fade(#ffffff, 80%);
     outline: none;
     background-color: transparent;
 }
 
-#mainNav .navbar-nav .nav-item:active,
-#mainNav .navbar-nav .nav-item:focus {
+#mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
     outline: none;
     background-color: transparent;
 }
@@ -126,8 +119,7 @@ a:hover {
     padding: 200px 0;
     text-align: center;
     color: white;
-    background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
-    background-color: black;
+    background: black url("../img/intro-bg.jpg") no-repeat scroll bottom center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -194,8 +186,7 @@ a:hover {
 
 .download-section {
     color: white;
-    background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
-    background-color: black;
+    background: black url("../img/downloads-bg.jpg") no-repeat scroll center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -212,7 +203,7 @@ a:hover {
         padding-bottom: 50px;
         padding-top: 50px
     }
-   
+
     .content-section {
         padding-top: 200px;
         padding-bottom: 200px;
@@ -275,24 +266,4 @@ footer {
 footer p {
     font-size: 14px;
     margin: 0;
-}
-
-::-moz-selection {
-    background: #fcfcfc;
-    background: rgba(255, 255, 255, 0.2);
-    text-shadow: none;
-}
-
-::selection {
-    background: #fcfcfc;
-    background: rgba(255, 255, 255, 0.2);
-    text-shadow: none;
-}
-
-img::selection {
-    background: transparent;
-}
-
-img::-moz-selection {
-    background: transparent;
 }
