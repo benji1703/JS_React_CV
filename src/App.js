@@ -41,7 +41,7 @@ class App extends Component {
                         </VerticalTimelineElement>
                         <VerticalTimelineElement
                             className="vertical-timeline-element--work"
-                            date="APRIL 2017 – DECEMBRE 2017"
+                            date="April 2017 – December 2017"
                             iconStyle={{
                                 background: '#e8e8e8',
                                 color: '#fff'
@@ -55,7 +55,7 @@ class App extends Component {
                         </VerticalTimelineElement>
                         <VerticalTimelineElement
                             className="vertical-timeline-element--work"
-                            date="MARS 2014 - APRIL 2016"
+                            date="Mars 2014 - April 2016"
                             iconStyle={{
                                 background: '#e8e8e8',
                                 color: '#fff'
@@ -72,7 +72,7 @@ class App extends Component {
                         </VerticalTimelineElement>
                         <VerticalTimelineElement
                             className="vertical-timeline-element--work"
-                            date="2006 - 2008"
+                            date="2010 - 2016"
                             iconStyle={{
                                 background: '#e8e8e8',
                                 color: '#fff'
@@ -87,7 +87,7 @@ class App extends Component {
                         </VerticalTimelineElement>
                         <VerticalTimelineElement
                             className="vertical-timeline-element--education"
-                            date="OCTOBER 2016 - CURRENT"
+                            date="October 2016 - Current"
                             iconStyle={{
                                 background: '#bfbfbf',
                                 color: '#fff'
